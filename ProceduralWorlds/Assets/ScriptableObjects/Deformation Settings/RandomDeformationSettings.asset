@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cce9aab783bd7440b6a1ced1c4db64b, type: 3}
+  m_Name: RandomDeformationSettings
+  m_EditorClassIdentifier: 
+  TerrainEnabled: 1
+  TerrainNoiseLayers: 4
+  TerrainNoiseScale: 0.24830061
+  TerrainNoiseStrength: 6.9962864
+  TerrainNoisePower: 0.9720311
+  TerrainBlendMode: 1
+  MountainsEnabled: 1
+  MountainNoiseLayers: 5
+  MountainNoiseScale: 0.03615034
+  MountainNoiseStrength: 19.76733
+  MountainNoisePower: 0.9503298
+  OceansEnabled: 1
+  OceanThreshold: 0.47354725
+  OceanNoiseScale: 0.011140239
+  OceanDepth: 10.394026
+  OceanNoisePower: 1.7596817

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cce9aab783bd7440b6a1ced1c4db64b, type: 3}
+  m_Name: DeformationSettings003
+  m_EditorClassIdentifier: 
+  TerrainEnabled: 1
+  TerrainNoiseLayers: 1
+  TerrainNoiseScale: 0.225
+  TerrainNoiseStrength: 6.14
+  TerrainNoisePower: 1.86
+  TerrainBlendMode: 1
+  MountainsEnabled: 1
+  MountainThreshold: 0.20693263
+  MountainNoiseLayers: 2
+  MountainNoiseScale: 0.01836
+  MountainNoiseStrength: 9.52
+  MountainNoisePower: 1.4618973
+  MountainBlendMode: 2
+  OceansEnabled: 1
+  OceanThreshold: 0.351157
+  OceanNoiseScale: 0.020216946
+  OceanDepth: 43.9
+  OceanNoisePower: 1.39
